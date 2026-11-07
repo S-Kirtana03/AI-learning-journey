@@ -26,6 +26,25 @@ This file records my daily AI-learning progress.
 ## November 7, 2026
 
 ### Completed
+- Completed the Student Marks Checker program.
+- Fixed errors related to `printf`, missing colons, indentation, undefined variables, and list indexing.
+- Learned to use `return` in functions.
+- Learned to use `zip()` to pair marks with grades.
+- Uploaded the completed notebook to GitHub.
+
+### What I learned
+- Functions should receive inputs and return outputs.
+- Variables created inside a function are local to that function.
+- `zip()` is useful for pairing two related lists.
+- `IndexError` happens when trying to access an index outside a list.
+- Running notebook cells in the correct order is important.
+
+### Next steps
+- Start Kaggle Python course.
+- Complete Lesson 1: Hello, Python.
+- Practice lists, loops, strings, and dictionaries.
+
+### Completed
 - [ ] Write the Student Marks Checker code.
 - [ ] Test the program with different marks.
 - [ ] Upload the notebook to GitHub.
