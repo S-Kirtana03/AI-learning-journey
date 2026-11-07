@@ -1,5 +1,4 @@
 # AI-learning-journey
-# AI Learning Journey
 This repository documents my journey of learning Artificial Intelligence step by step.
 My goal is to build a strong foundation in AI and eventually create useful projects involving Python, machine learning, deep learning, large language models (LLMs), chatbots, retrieval-augmented generation (RAG), and AI agents.
 
@@ -35,11 +34,12 @@ My goal is to build a strong foundation in AI and eventually create useful proje
 
 ## Projects
 
-### Student Marks Checker
-- A beginner Python project that calculates total marks, average marks, and a performance result.
-- Built using variables, lists, functions, and conditional statements.
+### Student Marks Checker ✅
+- A beginner Python project that calculates the total, average, and grade/result for multiple students.
+- Takes marks as user input and validates that each mark is between 0 and 100.
+- Uses functions, lists, loops, conditional statements, and `zip()` to pair marks with grades.
 - Notebook: [`notebooks/student-marks-checker.ipynb`](notebooks/student-marks-checker.ipynb)
-
+- 
 ## Learning log
 
 I update [`learning-log.md`](learning-log.md) after each study session.
