@@ -49,3 +49,25 @@ This file records my daily AI-learning progress.
 - [ ] Test the program with different marks.
 - [ ] Upload the notebook to GitHub.
 - [ ] Start Kaggle Python — Lesson 1.
+
+## November 10, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 1: Hello, Python
+- Completed Lesson 1 exercise
+
+### What I learned
+- Python syntax
+- Variables and assignment
+- Numbers and arithmetic operators
+- Basic calculations in Python
+
+### Notes
+- I completed the Kaggle exercise for Lesson 1.
+- I am building a daily learning habit.
+- Next, I will learn functions and getting help in Python.
+
+### Next steps
+- Complete Kaggle Python Lesson 2: Functions and Getting Help.
+- Complete its exercise.
