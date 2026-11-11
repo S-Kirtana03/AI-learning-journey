@@ -66,6 +66,27 @@ This file records my daily AI-learning progress.
 ### Notes
 - I completed the Kaggle exercise for Lesson 1.
 - I am building a daily learning habit.
+
+## November 11, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 2: Functions and Getting Help
+- Completed Lesson 2 exercise
+
+### What I learned
+- How to define functions using def
+- Function arguments and return values
+- How to call functions
+- How to use help() and documentation to understand functions
+
+### Notes
+- Functions help avoid repeating the same code.
+- I can use functions in my Student Marks Checker project.
+
+### Next steps
+- Complete Kaggle Python Lesson 3: Booleans and Conditionals.
+- Complete its exercise.
 - Next, I will learn functions and getting help in Python.
 
 ### Next steps
