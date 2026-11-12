@@ -67,6 +67,10 @@ This file records my daily AI-learning progress.
 - I completed the Kaggle exercise for Lesson 1.
 - I am building a daily learning habit.
 
+### Next steps
+- Complete Kaggle Python Lesson 2: Functions and Getting Help.
+- Complete its exercise.
+
 ## November 11, 2026
 
 ### Completed
@@ -87,8 +91,25 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Python Lesson 3: Booleans and Conditionals.
 - Complete its exercise.
-- Next, I will learn functions and getting help in Python.
+
+## November 12, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 3: Booleans and Conditionals
+- Completed Lesson 3 exercise
+
+### What I learned
+- True and False values
+- Comparison operators such as ==, !=, >, <, >=, and <=
+- Combining conditions using and, or, and not
+- if, elif, and else statements
+- Boolean conversion
+
+### Notes
+- Conditionals help a program make decisions.
+- I can use if/elif/else to assign grades in my Student Marks Checker project.
 
 ### Next steps
-- Complete Kaggle Python Lesson 2: Functions and Getting Help.
+- Complete Kaggle Python Lesson 4: Lists.
 - Complete its exercise.
