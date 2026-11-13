@@ -113,3 +113,26 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Python Lesson 4: Lists.
 - Complete its exercise.
+
+## November 13, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 4: Lists
+- Completed Lesson 4 exercise
+
+### What I learned
+- Creating lists
+- Accessing list items using indexes
+- Changing list items
+- Adding and removing items from lists
+- Using list methods
+- Slicing lists
+
+### Notes
+- Lists are useful for storing multiple values together.
+- I can use lists to store student marks in my Student Marks Checker project.
+
+### Next steps
+- Complete Kaggle Python Lesson 5: Loops and List Comprehensions.
+- Complete its exercise.
