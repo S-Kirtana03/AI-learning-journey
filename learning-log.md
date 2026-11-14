@@ -136,3 +136,26 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Python Lesson 5: Loops and List Comprehensions.
 - Complete its exercise.
+
+## November 14, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 5: Loops and List Comprehensions
+- Completed Lesson 5 exercise
+
+### What I learned
+- Using for loops to repeat tasks
+- Using while loops
+- Looping through lists
+- Using range()
+- Creating lists with list comprehensions
+- Writing shorter and cleaner Python code
+
+### Notes
+- Loops are useful for processing multiple values.
+- I can use loops to calculate totals and grades for many students in my Student Marks Checker project.
+
+### Next steps
+- Complete Kaggle Python Lesson 6: Strings and Dictionaries.
+- Complete its exercise.
