@@ -154,6 +154,30 @@ This file records my daily AI-learning progress.
 
 ### Notes
 - Loops are useful for processing multiple values.
+
+## November 15, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 6: Strings and Dictionaries
+- Completed Lesson 6 exercise
+
+### What I learned
+- Working with strings
+- String methods
+- String formatting
+- Creating dictionaries
+- Accessing dictionary values using keys
+- Adding and updating dictionary items
+- Looping through dictionaries
+
+### Notes
+- Dictionaries are useful for storing related information, such as student names and marks.
+- I can use a dictionary to store each student’s marks in my Student Marks Checker project.
+
+### Next steps
+- Complete Kaggle Python Lesson 7: Working with External Libraries.
+- Complete its exercise.
 - I can use loops to calculate totals and grades for many students in my Student Marks Checker project.
 
 ### Next steps
