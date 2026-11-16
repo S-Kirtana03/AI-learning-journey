@@ -183,3 +183,26 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Python Lesson 6: Strings and Dictionaries.
 - Complete its exercise.
+
+## November 16, 2026
+
+### Completed
+- Kaggle Python Course
+- Lesson 7: Working with External Libraries
+- Completed Lesson 7 exercise
+- Completed the full Kaggle Python course
+
+### What I learned
+- Importing external libraries
+- Using imported functions and objects
+- Exploring unfamiliar Python objects
+- Reading documentation and getting help
+
+### Course completed
+- Completed all 7 lessons in the Kaggle Python course.
+- Learned variables, functions, conditionals, lists, loops, strings, dictionaries, and external libraries.
+- Built a Student Marks Checker project using Python basics.
+
+### Next steps
+- Create a final Python practice notebook covering the full course.
+- Start Kaggle Pandas course.
