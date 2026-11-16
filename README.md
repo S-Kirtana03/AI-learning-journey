@@ -32,7 +32,7 @@ My goal is to build a strong foundation in AI and eventually create useful proje
   - Certificate earned  
   - Topics: variables, functions, data types, conditional statements, and lists
 ## Certificates
-
+- [Kaggle Intro to Programming Certificate](certificates/kaggle-intro-to-programming-certificate.png)
 - [Kaggle Python Certificate](certificates/kaggle-python-certificate.png)
 
 ## Projects
