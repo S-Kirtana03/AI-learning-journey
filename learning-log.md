@@ -206,3 +206,27 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Create a final Python practice notebook covering the full course.
 - Start Kaggle Pandas course.
+
+## November 18, 2026
+
+### Completed
+- Kaggle Pandas Course
+- Lesson 1: Creating, Reading and Writing
+- Completed Lesson 1 exercise
+
+### What I learned
+- What a DataFrame is
+- Creating a DataFrame
+- Creating a Series
+- Reading CSV files using pd.read_csv()
+- Saving data using to_csv()
+- Setting the index
+
+### Notes
+- Pandas is used to work with tables of data.
+- A DataFrame is like a table with rows and columns.
+- I can use Pandas to analyze student marks, sales data, and other real datasets.
+
+### Next steps
+- Complete Kaggle Pandas Lesson 2: Indexing, Selecting & Assigning.
+- Complete its exercise.
