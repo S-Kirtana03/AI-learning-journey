@@ -230,3 +230,26 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Pandas Lesson 2: Indexing, Selecting & Assigning.
 - Complete its exercise.
+
+## November 19, 2026
+
+### Completed
+- Kaggle Pandas Course
+- Lesson 2: Indexing, Selecting & Assigning
+- Completed Lesson 2 exercise
+
+### What I learned
+- Selecting columns using [] and loc/iloc
+- Selecting rows and specific values
+- Setting and changing the index
+- Conditional selection using boolean conditions
+- Assigning new values and creating new columns
+
+### Notes
+- loc selects data by label.
+- iloc selects data by position.
+- Conditional selection helps filter data, such as finding students who scored above 80.
+
+### Next steps
+- Complete Kaggle Pandas Lesson 3: Summary Functions and Maps.
+- Complete its exercise.
