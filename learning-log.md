@@ -254,26 +254,6 @@ This file records my daily AI-learning progress.
 - Complete Kaggle Pandas Lesson 3: Summary Functions and Maps.
 - Complete its exercise.
 
-## November 21, 2026
-
-### Completed
-- Kaggle Pandas Course
-- Lesson 3: Summary Functions and Maps
-- Completed Lesson 3 exercise
-
-### What I learned
-- Summary functions such as describe(), mean(), unique(), and value_counts()
-- Grouping and summarizing data
-- Using map() to transform Series values
-- Using apply() to transform DataFrame values
-
-### Notes
-- Summary functions help me quickly understand a dataset.
-- map() and apply() are useful for transforming values, such as converting marks into grades.
-
-### Next steps
-- Complete Kaggle Pandas Lesson 4: Grouping and Sorting.
-- Complete its exercise.
 
 ## November 21, 2026
 
