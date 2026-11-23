@@ -275,3 +275,26 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Pandas Lesson 4: Grouping and Sorting.
 - Complete its exercise.
+
+## November 23, 2026
+
+### Completed
+- Kaggle Pandas Course
+- Lesson 4: Grouping and Sorting
+- Completed Lesson 4 exercise
+
+### What I learned
+- Grouping data using groupby()
+- Calculating summaries for each group
+- Using agg() for multiple summary functions
+- Sorting values with sort_values()
+- Sorting indexes with sort_index()
+- Working with multi-indexes
+
+### Notes
+- Grouping is useful when I want averages or totals for each category.
+- For example, I can group student marks by class or subject and calculate the average for each group.
+
+### Next steps
+- Complete Kaggle Pandas Lesson 5: Data Types and Missing Values.
+- Complete its exercise.
