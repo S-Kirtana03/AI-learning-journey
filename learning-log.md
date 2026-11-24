@@ -298,3 +298,25 @@ This file records my daily AI-learning progress.
 ### Next steps
 - Complete Kaggle Pandas Lesson 5: Data Types and Missing Values.
 - Complete its exercise.
+
+## November 24, 2026
+
+### Completed
+- Kaggle Pandas Course
+- Lesson 5: Data Types and Missing Values
+- Completed Lesson 5 exercise
+
+### What I learned
+- Checking data types using dtype
+- Converting data types using astype()
+- Finding missing values using isna()
+- Replacing missing values using fillna()
+- Replacing incorrect values using replace()
+
+### Notes
+- Real datasets often have missing or incorrect values.
+- Cleaning data is an important step before analysis or machine learning.
+
+### Next steps
+- Complete Kaggle Pandas Lesson 6: Renaming and Combining.
+- Complete its exercise.
